@@ -9,7 +9,6 @@
     new WOW().init();
 
 
-
     
     // Dropdown on mouse hover
     const $dropdown = $(".dropdown");
