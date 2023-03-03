@@ -45,10 +45,6 @@
 }
 
 
-
-
-
-
 /*** Heading ***/
 h1,
 h2,
@@ -120,7 +116,7 @@ h6,
     position: relative;
     margin-left: 25px;
     padding: 35px 0;
-    color:#;
+    color:#091E3E;
     font-size: 18px;
     font-weight: 600;
     outline: none;
@@ -149,7 +145,7 @@ h6,
 @media (max-width: 991.98px) {
     .sticky-top.navbar-dark {
         position: relative;
-        background: #FFFFFF;
+        background: #091E3E;
     }
 
     .navbar-dark .navbar-nav .nav-link,
