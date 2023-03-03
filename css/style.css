@@ -44,18 +44,9 @@
     }
 }
 
-#spinner {
-    opacity: 0;
-    visibility: hidden;
-    transition: opacity .5s ease-out, visibility 0s linear .5s;
-    z-index: 99999;
-}
 
-#spinner.show {
-    transition: opacity .5s ease-out, visibility 0s linear 0s;
-    visibility: visible;
-    opacity: 1;
-}
+
+
 
 
 /*** Heading ***/
@@ -129,7 +120,7 @@ h6,
     position: relative;
     margin-left: 25px;
     padding: 35px 0;
-    color:#FFFFFF;
+    color:#;
     font-size: 18px;
     font-weight: 600;
     outline: none;
