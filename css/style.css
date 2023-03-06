@@ -152,7 +152,7 @@ h6,
     .navbar-dark .navbar-nav .nav-link.show,
     .sticky-top.navbar-dark .navbar-nav .nav-link {
         padding: 10px 0;
-        color: var(--dark);
+        color: var(--primary);
     }
 
     .navbar-dark .navbar-brand h1 {
